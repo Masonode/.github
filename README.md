@@ -29,7 +29,7 @@ We specialize in building structured, scalable applications across the decentral
 
 ### 📊 Network Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_PERSONAL_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=27272A&title_color=6366F1&icon_color=10B981" alt="Masonode Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=investorphem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=27272A&title_color=6366F1&icon_color=10B981" alt="Masonode Stats" />
 </div>
 
 ---
