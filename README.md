@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_LOGO_URL_HERE" width="150" alt="Masonode Logo" />
+  <img src="https://imgur.com/MA51IFK" width="150" alt="Masonode Logo" />
   <h1>MASONODE</h1>
   <p><strong>Forging Connections. Building the Decentralized Grid.</strong></p>
 
